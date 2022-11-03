@@ -60,3 +60,4 @@ NODE_DOCKER_PORT= <Your NODE_DOCKER_PORT><br />
 STRIPE_PUBLISHABLE_KEY= <Your STRIPE_PUBLISHABLE_KEY><br />
 STRIPE_SECRET_KEY= <Your STRIPE_SECRET_KEY><br />
 # mern-ecommerce-starter
+# mern-ecommerce-starter
